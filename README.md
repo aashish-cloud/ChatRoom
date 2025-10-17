@@ -1,8 +1,8 @@
-# chatRoomCpp
+# ChatRoom
 
 ## Project Overview
 
-chatRoomCpp is a simple chat room application implemented in C++ using Boost.Asio for asynchronous network communication and threading for handling concurrent client connections. It allows multiple clients to connect to a server and exchange messages in a chat room.
+ChatRoom is a simple chat room application implemented in C++ using Boost.Asio for asynchronous network communication and threading for handling concurrent client connections. It allows multiple clients to connect to a server and exchange messages in a chat room.
 
 ## Key Features
 
